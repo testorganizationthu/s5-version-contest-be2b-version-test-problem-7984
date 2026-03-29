@@ -1,6 +1,6 @@
 folder: problem
 samples:
-    - cases: '[1..3]'
+    - cases: '[1..2]'
 title:
-    en: Version Test v2 9b37
+    en: Version Test v4 089e
 version: 2

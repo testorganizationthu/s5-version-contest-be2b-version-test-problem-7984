@@ -1,13 +1,16 @@
 {{ self.title() }}
 
 {{ s('description') }}
-Updated statement with better wording.
+Completely revised problem with new constraints.
 
 {{ s('input format') }}
-N integers
+First line: N (1 <= N <= 10^6)
 
 {{ s('output format') }}
-Result
+Single integer
 
 {{ s('sample', 1) }}
 {{ self.sample_text() }}
+
+{{ s('hint') }}
+Use efficient algorithm.
