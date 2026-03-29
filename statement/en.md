@@ -1,13 +1,13 @@
 {{ self.title() }}
 
 {{ s('description') }}
-Solve it.
+Updated statement with better wording.
 
 {{ s('input format') }}
-N
+N integers
 
 {{ s('output format') }}
-Answer
+Result
 
 {{ s('sample', 1) }}
 {{ self.sample_text() }}
